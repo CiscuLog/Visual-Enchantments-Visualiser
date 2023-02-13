@@ -1,0 +1,10 @@
+Features added in the 2.0 update: 
+
+Aqua affinity armor.
+Curse of binding armor.
+Curse of vanishing armor.
+Elytras custom texture for unbreaking, curse of vanishing and curse of binding.
+Custom textures for non-glinty enchanted books.
+
+Next update plan:
+Weaponry enchantments
