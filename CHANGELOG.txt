@@ -1,10 +1,28 @@
-Features added in the 2.0 update: 
+Features added in VisualEnchantments 3.0: 
 
-Aqua affinity armor.
-Curse of binding armor.
-Curse of vanishing armor.
-Elytras custom texture for unbreaking, curse of vanishing and curse of binding.
-Custom textures for non-glinty enchanted books.
-
-Next update plan:
-Weaponry enchantments
+- Weapon & tools update
+- New enchantment textures: 
+-- fire aspect
+-- knockback
+-- looting
+-- sweeping edge
+-- bane of arthropods
+-- sharpness
+-- smite
+-- fortune
+-- silk touch
+-- efficiency
+-- curse of vanishing(previously added)
+-- unbreaking(previously added)
+-- luck of the sea
+-- lure
+-- power
+-- punch
+-- flame
+-- infinity
+-- loyalty
+-- impaling
+-- riptide
+-- channeling
+- Only 1.13.2 enchantments, 1.14 ones aren't implemented due to Optifine not having a 1.14 update.
+  As soon as Optifine is released for 1.14, the new crossbow textures will be added.
