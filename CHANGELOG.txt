@@ -1,4 +1,5 @@
-Changes in VisualEnchantments 3.1: 
+VISUAL ENCHANTMENTS(1.12.2) v1.0
 
-- Corrected smite diamond sword's texture
-- Fixed bug where luck of the sea fishing rods won't throw the bait when used
+GAME VERSION: 1.12
+
+Textures from VisualEnchantments_3.1, adjusted to not include useless texture files as tridents and turtle shells.
