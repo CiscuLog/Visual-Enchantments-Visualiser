@@ -1,5 +1,13 @@
-VISUAL ENCHANTMENTS(1.12.2) v1.0
+COMPATIBLE GAME VERSIONS: 1.8(at least) to 1.12
 
-GAME VERSION: 1.12
+Changes in VisualEnchantments 3.0(1.12):
 
-Textures from VisualEnchantments_3.1, adjusted to not include useless texture files as tridents and turtle shells.
+- Basic resourcepack finished (20.07.2019)
+- Added weapon and armor priority
+- Added broken elytra textures
+- Mending glint added
+- Retextured broken elytra
+
+Changes in VisualEnchantments 2.1(1.12):
+
+- Fixed efficiency diamond pickaxe's texture
