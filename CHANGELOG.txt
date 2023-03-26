@@ -1,3 +1,5 @@
-Changes in VisualEnchantments 4.1:
+Changes in VisualEnchantments 5.0: 
 
-- Fixed efficiency diamond pickaxe's texture
+- Added textures for all crossbow's enchantments
+- Added enchantment priority
+- Now some enchantments at his highest level glint
