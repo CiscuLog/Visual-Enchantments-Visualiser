@@ -1,7 +1,12 @@
+Changes in VisualEnchantments 5.2:
+
+- Added broken elytra textures
+- Finally fixed sweeping enchantment glint
+
 Changes in VisualEnchantments 5.1:
 
 - Added Mending glint. It doesn't alter the item's texture, it just adds a glint to it.Vis
-- Fixed sweeping_edge enchantment glint levels
+- Fixed sweeping_edge enchantment glint levels(FAIL)
 - Fixed unbreaking crossbows
 
 Changes in VisualEnchantments 5.0: 
