@@ -1,3 +1,9 @@
+Changes in VisualEnchantments 5.1:
+
+- Added Mending glint. It doesn't alter the item's texture, it just adds a glint to it.Vis
+- Fixed sweeping_edge enchantment glint levels
+- Fixed unbreaking crossbows
+
 Changes in VisualEnchantments 5.0: 
 
 - Added textures for all crossbow's enchantments
