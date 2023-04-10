@@ -1,3 +1,10 @@
+COMPATIBLE GAME VERSIONS: 1.13 to 1.14
+
+Changes in VisualEnchantments 6.0:
+
+- Basic resourcepack finished (20.07.2019)
+- Weapon priority added
+
 Changes in VisualEnchantments 5.2:
 
 - Added broken elytra textures
@@ -12,5 +19,5 @@ Changes in VisualEnchantments 5.1:
 Changes in VisualEnchantments 5.0: 
 
 - Added textures for all crossbow's enchantments
-- Added enchantment priority
+- Added armor enchantment priority
 - Now some enchantments at his highest level glint
