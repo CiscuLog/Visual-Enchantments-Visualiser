@@ -1,5 +1,11 @@
 COMPATIBLE GAME VERSIONS: 1.13 to 1.14
 
+Changes in VisualEnchantments 7.0:
+
+- Added visual shields
+- Retextured protection chestplates
+- Animated fire aspect weapons
+
 Changes in VisualEnchantments 6.0:
 
 - Basic resourcepack finished (20.07.2019)
