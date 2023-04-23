@@ -1,5 +1,12 @@
 COMPATIBLE GAME VERSIONS: 1.13 to 1.14
 
+Changes in VisualEnchantments 8.0:
+
+- Added enchantment secific trident models
+- Retextured minor detail in protection chestplates
+- Removed trident 2d textures
+
+
 Changes in VisualEnchantments 7.0:
 
 - Added visual shields
