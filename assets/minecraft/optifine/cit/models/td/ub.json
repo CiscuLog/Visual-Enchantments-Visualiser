@@ -1,7 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc) and later edited by CiscuLog",
     "textures": {
-        "textures": "./textures"
+        "textures": "./textures",
+        "ub": "./ubi"
     },
     "display": {
         "firstperson_righthand": {
@@ -81,6 +82,14 @@
                 "west": { "texture": "#textures", "uv": [ 12, 0, 13, 4 ] },
                 "up": { "texture": "#textures", "uv": [ 0, 0, 0, 0 ] },
                 "down": { "texture": "#textures", "uv": [ 15, 3, 16, 4 ] }
+            }
+        },
+        {
+            "name": "icon",
+            "from": [ 8, 24, 7 ], 
+            "to": [ 8.1, 24.1, 7 ], 
+            "faces": {
+                "south": { "texture": "#ub", "uv": [ 0, 0, 16, 16 ] }
             }
         }
     ]

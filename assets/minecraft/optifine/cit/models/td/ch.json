@@ -1,7 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc) and later edited by CiscuLog",
     "textures": {
-        "textures": "./textures"
+        "textures": "./textures",
+        "rayo": "./zap"
     },
     "display": {
         "firstperson_righthand": {
@@ -81,6 +82,15 @@
                 "west": { "texture": "#textures", "uv": [ 11, 0, 12, 4 ] },
                 "up": { "texture": "#textures", "uv": [ 11, 0, 12, 1 ] },
                 "down": { "texture": "#textures", "uv": [ 11, 3, 12, 4 ] }
+            }
+        },
+        {
+            "name": "zap",
+            "from": [ 0, 12, 7.499 ], 
+            "to": [ 16, 28, 7.501 ], 
+            "faces": {
+                "north": { "texture": "#rayo", "uv": [ 16, 0, 0, 16 ] },
+                "south": { "texture": "#rayo", "uv": [ 0, 0, 16, 16 ] }
             }
         }
     ]
