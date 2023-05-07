@@ -1,5 +1,15 @@
 COMPATIBLE GAME VERSIONS: 1.13 to 1.14
 
+Canges in VisualEnchantments 10.0:
+
+- Changed file configuration, now the resourcepack is compatible with others which use optifine's CIT properties (GearPlus Add-on, ItemBound, VisualDurability, etc)
+- Fixed some leather armor textures
+- Fixed fire_aspect sword's emissive textures
+- Changed fire_aspect and fire_protection book's texture
+- Emissive texture applied to aqua_affinity helmets
+- Emissive texture applied to infinity books
+- Addet texture to mending book
+
 Changes in VisualEnchantments 9.0:
 
 - Added curse of vanishing crossbow (apparently nobody noticed the missing texture)
