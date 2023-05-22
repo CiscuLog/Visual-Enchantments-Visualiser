@@ -1,12 +1,47 @@
-COMPATIBLE GAME VERSIONS: 1.13 to 1.14 (until further notice)
+COMPATIBLE GAME VERSIONS: 1.13 to 1.15 (until further notice)
 OptiFine required.
 Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
 
-Changes in VisualEnchantments 11.0 (22/12/2019):
+Changes in VisualEnchantments 12.0 (05/03/2020)
 
+- 1.15 compatibility
+- Added the following enchantment textures for pumpkins:
+	- curse_of_vanishing
+	- binding_curse
+- Added level-dependable textures for sharpness weapons:
+	- Level 1: Flint
+	- Level 2: Emerald
+	- Level 3: Gold
+	- Level 4: Diamond
+	- Level 5: Netherite
+	*Disclaimer: Items will show a texture depending on the highest level of ANY of the enchantments it contains, as long as one of them is sharpness.*
+- Added curse_of_vanishing textures for:
+	- Saddles
+	- Diamond horse armor
+	- Iron horse armor
+	- Golden horse armor
+	- Leather horse armor
+- Added textures for special name_tags:
+	- Grumm / Dinnerbone
+	- jeb_
+	- Toast
+	- Johnny
+- Retextured mending glint [PROVISIONAL]
+- Retextured curse_of_binding
+	- As for the 1.15 update, the slimy texture has been replaced with honey
+- Retextured leather and diamond armor textures for unbreaking
+- Retextured knockback book
+- Retextured projectile_protection turtle helmet
+- Slightly retextured punch
+- Removed vanilla glints at max level enchantment
+
+
+------------------------------------
+
+Changes in VisualEnchantments 11.0 (22/12/2019):
 - Added texture for mending elytra
 - Retextured the efficiency enchantment as a whole
 - Retextured bane_of_arthropods axes
@@ -26,8 +61,6 @@ Changes in VisualEnchantments 11.0 (22/12/2019):
 	- Axe textures
 	- All .properties files
 	FOR IMPATIENT PEOPLE, AXES WITH KNOCKBACK WILL ALSO SHOW THESE NEW MODELS
-
-------------------------------------
 
 Changes in VisualEnchantments 10.0 (29/10/2019):
 - Changed file configuration, now the resourcepack is compatible with others which use optifine's CIT properties (GearPlus Add-on, ItemBound, VisualDurability, etc)
