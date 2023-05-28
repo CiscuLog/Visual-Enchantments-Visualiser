@@ -1,0 +1,96 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator and later edited by CiscuLog (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "sword": "./wooden_sword"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 90, 315, 0 ],
+            "translation": [ -5, -4, 0 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
+        },
+        "ground": {
+            "rotation": [ 90, -45, 0 ],
+            "translation": [ -0.5, 0, -0.5 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "fixed": {
+            "rotation": [ 90, 45, 180 ],
+            "translation": [ 6, -5, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 0, 270 ],
+            "translation": [ -0.5, 1, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [75, 0, 270 ],
+            "translation": [ 4, -2, 0 ],
+            "scale": [ 0.75, 0.75, 0.75 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 90, 0, 270 ],
+            "translation": [ -0.5, -2.5, 2.5 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [75, 0, 90 ],
+            "translation": [ 4, -2, 0 ],
+            "scale": [ 0.75, 0.75, 0.75 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 90, 0, 90 ],
+            "translation": [ 0.5, -2.5, 2.5 ],
+            "scale": [ 1, 1, 1 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 8, 8, -16 ], 
+            "to": [ 9, 9, 16 ], 
+            "faces": {
+                "north": { "texture": "#sword", "uv": [ 0, 0, 0, 0 ] },
+                "east": { "texture": "#sword", "uv": [ 0, 0, 1, 16 ], "rotation": 90 },
+                "south": { "texture": "#sword", "uv": [ 0, 15.5, 1, 16 ] },
+                "west": { "texture": "#sword", "uv": [ 0, 0, 1, 16 ], "rotation": 270 },
+                "up": { "texture": "#sword", "uv": [ 0, 0, 1, 16 ] },
+                "down": { "texture": "#sword", "uv": [ 0, 0, 1, 16 ], "rotation": 180 }
+            }
+        },
+        {
+            "name": "Cube2",
+            "from": [ 9, 8, -16 ], 
+            "to": [ 10, 9, 16 ], 
+            "faces": {
+                "north": { "texture": "#sword", "uv": [ 15, 0, 16, 0 ] },
+                "east": { "texture": "#sword", "uv": [ 1, 0, 2, 16 ], "rotation": 90 },
+                "south": { "texture": "#sword", "uv": [ 1, 15.5, 2, 16 ] },
+                "up": { "texture": "#sword", "uv": [ 1, 0, 2, 16 ] },
+                "down": { "texture": "#sword", "uv": [ 1, 0, 1, 16 ], "rotation": 180 }
+            }
+        },
+        {
+            "name": "Cube3",
+            "from": [ 7, 7, 4 ], 
+            "to": [ 11, 10, 5 ], 
+            "faces": {
+                "north": { "texture": "#sword", "uv": [ 13, 12, 16, 16 ], "rotation": 90 },
+                "east": { "texture": "#sword", "uv": [ 16, 15, 13, 16 ], "rotation": 90 },
+                "south": { "texture": "#sword", "uv": [ 13, 12, 16, 16 ], "rotation": 90 },
+                "west": { "texture": "#sword", "uv": [ 13, 12, 16, 13 ], "rotation": 90 },
+                "up": { "texture": "#sword", "uv": [ 13, 12, 14, 16 ], "rotation": 90 },
+                "down": { "texture": "#sword", "uv": [ 15, 12, 16, 16 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Cube4",
+            "from": [ 9, 8, -15 ], 
+            "to": [ 10, 9, -14 ], 
+            "faces": {
+                "north": { "texture": "#sword", "uv": [ 1, 1, 2, 1 ] }
+            }
+        }
+    ]
+}
