@@ -4,6 +4,14 @@ Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+Changes in VisualEnchantments 1.12.2 (05/05/2020)
+- Tweaked sharpness sword model to avoid undesired visual glitches
+- Changed trident texture format to be more efficient
+- Added new hoe enchantments:
+	- Efficiency
+	- Fortune
+	- Silk touch
+
 
 Changes in VisualEnchantments 1.12.1 (18/04/2020)
 - Changed numeration mode for versions
@@ -20,8 +28,6 @@ Changes in VisualEnchantments 1.12.1 (18/04/2020)
 	- globe_banner_pattern
 	- mojang_banner_pattern
 	- skull_banner_pattern
-
--------------------------------------------------------
 
 Changes in VisualEnchantments 1.12.0 (05/03/2020)
 - 1.15 compatibility
