@@ -4,6 +4,13 @@ Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+Changes in VisualEnchantments 1.12.3 (12/05/2020)
+- Changed sweeping model texturing
+	- Now mending displays properly
+- Changed shield model texturing
+	- Now mending displays ploperly
+
+
 Changes in VisualEnchantments 1.12.2 (05/05/2020)
 - Tweaked sharpness sword model to avoid undesired visual glitches
 - Changed trident texture format to be more efficient
@@ -11,7 +18,6 @@ Changes in VisualEnchantments 1.12.2 (05/05/2020)
 	- Efficiency
 	- Fortune
 	- Silk touch
-
 
 Changes in VisualEnchantments 1.12.1 (18/04/2020)
 - Changed numeration mode for versions
