@@ -4,12 +4,23 @@ Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+Changes in VisualEnchantments 1.13.0 (24/05/2020)
+- Renaming a book with an enchantment name gives his equivalent enchanted book texture
+- Added fire aspect glint
+	- Removed all fire aspect sword textures
+- Retextured depth strider book
+- Mending related changes:
+	- Added more orbs to the glint
+- Added unenchanted trident model
+
+
+-------------------------------------------------
+
 Changes in VisualEnchantments 1.12.3 (12/05/2020)
 - Changed sweeping model texturing
 	- Now mending displays properly
 - Changed shield model texturing
 	- Now mending displays ploperly
-
 
 Changes in VisualEnchantments 1.12.2 (05/05/2020)
 - Tweaked sharpness sword model to avoid undesired visual glitches
