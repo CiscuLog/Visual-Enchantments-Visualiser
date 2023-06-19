@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator and later edited by CiscuLog (https://mrcrayfish.com/tools?id=mc)",
     "textures": {
-        "stick": "./stick",
-        "material": "./diamond"
+        "stick": "optifine/cit/items/enchs/26chopping/stick",
+        "material": "optifine/cit/items/enchs/26chopping/diamond"
     },
     "display": {
         "gui": {

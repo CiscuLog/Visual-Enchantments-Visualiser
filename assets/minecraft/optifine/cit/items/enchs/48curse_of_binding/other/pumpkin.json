@@ -1,9 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
     "textures": {
-        "carved_pumpkin": "./carved_pumpkin",
-        "pumpkin_top": "./pumpkin_top",
-        "pumpkin_side": "./pumpkin_side"
+        "carved_pumpkin": "optifine/cit/items/enchs/48curse_of_binding/other/carved_pumpkin",
+        "pumpkin_top": "optifine/cit/items/enchs/48curse_of_binding/other/pumpkin_top",
+        "pumpkin_side": "optifine/cit/items/enchs/48curse_of_binding/other/pumpkin_side"
     },
     "display": {
         "gui": {

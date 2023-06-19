@@ -1,7 +1,7 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./stone_sword"
+		"0": "optifine/cit/items/enchs/34sweeping/stone_sword"
 	},
 	"elements": [
 		{

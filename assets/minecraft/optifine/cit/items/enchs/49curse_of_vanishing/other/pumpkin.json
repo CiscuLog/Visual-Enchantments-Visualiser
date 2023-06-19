@@ -1,11 +1,11 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
     "textures": {
-        "carved_pumpkin": "./carved_pumpkin",
-        "pumpkin_top": "./ptop",
-        "pumpkin_left": "./pleft",
-        "pumpkin_right": "./pright",
-        "pumpkin_back": "./pback"
+        "carved_pumpkin": "optifine/cit/items/enchs/49curse_of_vanishing/other/carved_pumpkin",
+        "pumpkin_top": "optifine/cit/items/enchs/49curse_of_vanishing/other/ptop",
+        "pumpkin_left": "optifine/cit/items/enchs/49curse_of_vanishing/other/pleft",
+        "pumpkin_right": "optifine/cit/items/enchs/49curse_of_vanishing/other/pright",
+        "pumpkin_back": "optifine/cit/items/enchs/49curse_of_vanishing/other/pback"
     },
     "display": {
         "gui": {
