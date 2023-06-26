@@ -4,15 +4,38 @@ Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+
+Changes in VisualEnchantments 2.0.0 (30/06/2020)
+- Added two-enchantment support for the following items:
+	- Swords (wooden-golden-stone-iron-diamond)
+	- Axes (wooden-golden-stone-iron-diamond)
+	- Pickaxes (wooden-golden-stone-iron-diamond)
+	- Axes (wooden-golden-stone-iron-diamond)
+	- Shovels (wooden-golden-stone-iron-diamond)
+	- Hoes (wooden-golden-stone-iron-diamond)
+	- Fishing rod
+	- Carrot on a stick
+	- Shears
+	- Flint and steel
+	- Bow
+	- Crossbow
+	- Shield
+	- Trident
+	- Carved pumpkin
+	- Elytra
+- Removed sharpness levels
+- Changed glint configuration
+	- Retextured vanilla glints -> transparent
+- Approximated amount of unique textures added: 548
+
+
+
+
+
 Changes in VisualEnchantments 1.13.1 (10/06/2020)
 - Retextured sharpness Level 5: dragon breath
 - Changed path directory for sweeping, chopping, shieds and pumpkins (optifine pre-version compatible)
 - Retextured projectile_protection armor
-
-
-
--------------------------------------------------
-
 
 Changes in VisualEnchantments 1.13.0 (24/05/2020)
 - Renaming a book with an enchantment name gives his equivalent enchanted book texture
