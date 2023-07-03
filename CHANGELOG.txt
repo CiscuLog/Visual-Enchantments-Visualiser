@@ -1,9 +1,17 @@
-COMPATIBLE GAME VERSIONS: 1.13 to 1.15 (until further notice)
+COMPATIBLE GAME VERSIONS: 1.13 to 1.16 (until further notice)
 OptiFine required.
 Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+
+Changes in VisualEnchantments 2.1.0 (05/07/2020)
+- Added enchanted netherite tools and armor
+- Added enchanted fungus on a stick
+- Added soul speed enchantment
+
+
+-----------------------------------------------
 
 Changes in VisualEnchantments 2.0.0 (30/06/2020)
 - Added two-enchantment support for the following items:
@@ -27,8 +35,6 @@ Changes in VisualEnchantments 2.0.0 (30/06/2020)
 - Changed glint configuration
 	- Retextured vanilla glints -> transparent
 - Approximated amount of unique textures added: 548
-
-
 
 
 
