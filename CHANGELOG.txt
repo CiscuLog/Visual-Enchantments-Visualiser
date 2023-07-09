@@ -5,13 +5,33 @@ Required settings:
 	- Emissive Textures: ON
 
 
+Changes in VisualEnchantments 2.2.0 (24/08/2020)
+- Added two-enchantment support for the following items:
+	- Helmets (leather-golden-chainmail-iron-diamond-netherite)
+	- Chestplates (leather-golden-chainmail-iron-diamond-netherite)
+	- Leggings (leather-golden-chainmail-iron-diamond-netherite)
+	- Boots (leather-golden-chainmail-iron-diamond-netherite)
+	- Turtle helmets
+- Added single fire aspect textures placeholder
+- Added single mending tools textures placeholder
+- Removed 3d sweeping swords
+- Removed 3d trident items
+- Retextured sweeping swords
+- Retextured trident items
+- Retextured projectile protection
+- Retextured protection helmets
+- Retextured vanishing chestplates & leggings
+- Corrected leather armor texture flickering errors
+- Approximated amount of new unique textures added: 2550
+
+
+-----------------------------------------------
+
 Changes in VisualEnchantments 2.1.0 (05/07/2020)
 - Added enchanted netherite tools and armor
 - Added enchanted fungus on a stick
 - Added soul speed enchantment
 
-
------------------------------------------------
 
 Changes in VisualEnchantments 2.0.0 (30/06/2020)
 - Added two-enchantment support for the following items:
