@@ -5,6 +5,9 @@ Required settings:
 	- Emissive Textures: ON
 
 
+Changes in VisualEnchantments 2.2.1 (05/09/2020)
+- Fixed unenchanted trident third-person display
+
 Changes in VisualEnchantments 2.2.0 (24/08/2020)
 - Added two-enchantment support for the following items:
 	- Helmets (leather-golden-chainmail-iron-diamond-netherite)
