@@ -4,6 +4,21 @@ Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+Changes in VisualEnchantments 2.3.0 (22/09/2020)
+- Changed mending enchantment color to lime
+- Added Visual icons on enchantment names
+- Supported languages:
+	- Deutsch (de_de)
+	- English (en_ca, en_gb, en_us)
+	- Español (es_ar, es_cl, es_ec, es_es, es_mx, es_uy, es_vz)
+	- Français (fr_ca, fr_fr)
+	- Italiano (it_it)
+	- 日本語 (ja_jp)
+	- Português (pt_br, pt_pt)
+	- Русский (ru_ru)
+	- Tiếng Việt (vi_vn)
+
+------------------------------------------
 
 Changes in VisualEnchantments 2.2.1 (05/09/2020)
 - Fixed unenchanted trident third-person display
@@ -27,8 +42,6 @@ Changes in VisualEnchantments 2.2.0 (24/08/2020)
 - Corrected leather armor texture flickering errors
 - Approximated amount of new unique textures added: 2550
 
-
------------------------------------------------
 
 Changes in VisualEnchantments 2.1.0 (05/07/2020)
 - Added enchanted netherite tools and armor
