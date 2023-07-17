@@ -4,6 +4,17 @@ Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+
+Changes in VisualEnchantments 2.3.1 (26/09/2020)
+- Added fire aspect sword textures
+- Removed glint unsupported files
+	- Fire_aspect related
+	- Soul_speed related
+- Corrected lang files:
+	- Français (fr_ca)
+
+----------------------------------
+
 Changes in VisualEnchantments 2.3.0 (22/09/2020)
 - Changed mending enchantment color to lime
 - Added Visual icons on enchantment names
@@ -18,7 +29,6 @@ Changes in VisualEnchantments 2.3.0 (22/09/2020)
 	- Русский (ru_ru)
 	- Tiếng Việt (vi_vn)
 
-------------------------------------------
 
 Changes in VisualEnchantments 2.2.1 (05/09/2020)
 - Fixed unenchanted trident third-person display
@@ -73,7 +83,6 @@ Changes in VisualEnchantments 2.0.0 (30/06/2020)
 - Approximated amount of unique textures added: 548
 
 
-
 Changes in VisualEnchantments 1.13.1 (10/06/2020)
 - Retextured sharpness Level 5: dragon breath
 - Changed path directory for sweeping, chopping, shieds and pumpkins (optifine pre-version compatible)
@@ -87,7 +96,6 @@ Changes in VisualEnchantments 1.13.0 (24/05/2020)
 - Mending related changes:
 	- Added more orbs to the glint
 - Added unenchanted trident model
-
 
 
 Changes in VisualEnchantments 1.12.3 (12/05/2020)
