@@ -1,8 +1,38 @@
 COMPATIBLE GAME VERSIONS: 1.13 to 1.17 (until further notice)
-OptiFine required.
+OptiFine or CIT-related mods required.
 Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
+
+
+Changes in VisualEnchantments 3.0.3 (03/10/2021)
+- Deleted iron_layer_1 - copia.properties so the pack is now hopefully compatible with fabric
+- Changed textures:
+	- Font:
+		- Aqua Affinity
+		- Bane of Arthropods
+		- Blast Protection
+		- Channeling
+		- Curse of Binding
+		- Depth Strider
+		- Efficiency
+		- Feather Falling
+		- Fire Protection
+		- Fortune
+		- Frost Walker
+		- Protection
+		- Projectile Protection
+		- Sharpness
+		- Silk Touch
+		- Smite
+		- Impaling
+		- Infinity
+		- Looting
+		- Loyalty
+		- Lure
+		- Luck of the Sea
+		- Riptide
+		- Unbreaking
 
 
 Changes in VisualEnchantments 3.0.2 (11/07/2021)
@@ -17,8 +47,6 @@ Changes in VisualEnchantments 3.0.2 (11/07/2021)
 		- Fixed missing Vanishing axe textures
 - Other
 	- Added "Visual Tridents" datapack assets
-
-
 
 Changes in VisualEnchantments 3.0.1 (05/01/2021)
 - Corrected model errors for some specific sprites
