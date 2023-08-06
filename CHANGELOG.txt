@@ -4,6 +4,8 @@ Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+Changes in VisualEnchantments 3.0.1 (05/01/2021)
+- Corrected model errors for some specific sprites
 
 Changes in VisualEnchantments 3.0.0 (04/01/2021)
 - Changed texturing methods
