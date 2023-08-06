@@ -1,8 +1,6 @@
 {
   "parent": "minecraft:item/golden_axe",
   "textures": {
-	"sticktop2": "item/tools/mendingaxe",
-	"orb": "#sticktop2",
-	"ring2": "#sticktop2"
+	"stickbottom": "item/tools/mendingaxe"
 	}
 }

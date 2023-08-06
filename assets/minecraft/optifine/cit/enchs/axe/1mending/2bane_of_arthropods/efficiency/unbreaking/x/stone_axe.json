@@ -5,8 +5,6 @@
 	"efficiency": "item/tools/efficiency",
 	"efficiencytop": "#efficiency",
 	"stick": "item/tools/unbreaking",
-	"sticktop2": "item/tools/mendingaxe",
-	"orb": "#sticktop2",
-	"ring2": "#sticktop2"
+	"stickbottom": "item/tools/mendingaxe"
 	}
 }

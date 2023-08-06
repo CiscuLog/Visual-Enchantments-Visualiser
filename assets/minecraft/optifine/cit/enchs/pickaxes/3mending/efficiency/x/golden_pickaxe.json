@@ -1,10 +1,8 @@
 {
   "parent": "minecraft:item/golden_pickaxe",
   "textures": {
-	"top": "item/tools/mending",
-	"sticktop": "item/tools/mending",
 	"efficiency": "item/tools/efficiency",
 	"efficiencytop": "#efficiency",
-	"stickbottom": "#stick"
+	"stickbottom": "item/tools/mending"
 	}
 }

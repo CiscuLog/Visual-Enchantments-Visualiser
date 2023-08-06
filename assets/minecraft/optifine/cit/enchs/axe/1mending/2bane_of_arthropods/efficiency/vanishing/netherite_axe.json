@@ -4,8 +4,6 @@
 	"base": "item/tools/bane/vanishing/netherite_axe",
 	"efficiency": "item/tools/efficiency",
 	"efficiencytop": "#efficiency",
-	"sticktop2": "item/tools/mendingaxe",
-	"orb": "#sticktop2",
-	"ring2": "#sticktop2"
+	"stickbottom": "item/tools/mendingaxe"
 	}
 }

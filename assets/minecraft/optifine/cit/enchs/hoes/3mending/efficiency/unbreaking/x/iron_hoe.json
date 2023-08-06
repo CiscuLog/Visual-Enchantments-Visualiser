@@ -2,10 +2,8 @@
   "parent": "minecraft:item/iron_hoe",
   "textures": {
 	"stick": "item/tools/unbreaking",
-	"top": "item/tools/mending",
-	"sticktop": "item/tools/mending",
 	"efficiency": "item/tools/efficiency",
 	"efficiencytop": "#efficiency",
-	"stickbottom": "#stick"
+	"stickbottom": "item/tools/mending"
 	}
 }

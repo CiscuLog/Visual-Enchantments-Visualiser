@@ -2,10 +2,7 @@
   "parent": "minecraft:item/wooden_pickaxe",
   "textures": {
 	"base": "item/tools/vanishing/wooden_pickaxe",
-	"top": "item/tools/mending",
-	"sticktop": "item/tools/mending",
 	"stick": "item/tools/unbreaking",
-	"efficiencytop": "#stick",
-	"stickbottom": "#stick"
+	"stickbottom": "item/tools/mending"
 	}
 }
