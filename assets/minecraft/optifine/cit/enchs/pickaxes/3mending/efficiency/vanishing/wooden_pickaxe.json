@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/wooden_pickaxe",
+  "parent": "minecraft:item/pickaxes/wooden_pickaxe",
   "textures": {
 	"base": "item/tools/vanishing/wooden_pickaxe",
 	"efficiency": "item/tools/efficiency",

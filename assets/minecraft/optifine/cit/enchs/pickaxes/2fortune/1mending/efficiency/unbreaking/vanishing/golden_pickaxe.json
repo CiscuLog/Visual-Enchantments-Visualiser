@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/golden_pickaxe",
+  "parent": "minecraft:item/pickaxes/golden_pickaxe",
   "textures": {
 	"base": "minecraft:item/tools/vanishing/golden_pickaxe",
 	"stick": "item/tools/unbreaking",

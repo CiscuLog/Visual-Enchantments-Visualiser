@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/bow",
+  "parent": "minecraft:item/bows/bow",
   "textures": {
 	"tip": "item/bow/power",
 	"tip2": "item/bow/infinity"

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/netherite_pickaxe",
+  "parent": "minecraft:item/pickaxes/netherite_pickaxe",
   "textures": {
 	"top": "item/tools/fortune",
 	"efficiency": "item/tools/efficiency",

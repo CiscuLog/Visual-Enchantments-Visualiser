@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/warped_fungus_on_a_stick",
+  "parent": "minecraft:item/rods/warped_fungus_on_a_stick",
   "textures": {
 	"base": "item/rods/vanishing"
 	}

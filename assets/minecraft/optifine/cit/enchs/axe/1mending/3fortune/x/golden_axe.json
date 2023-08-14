@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/golden_axe",
+  "parent": "minecraft:item/axes/golden_axe",
   "textures": {
 	"sticktop": "item/tools/fortuneaxe",
 	"orb": "item/tools/fortuneaxe",

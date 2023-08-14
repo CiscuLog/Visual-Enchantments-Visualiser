@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/longsword",
+  "parent": "minecraft:item/swords/longsword",
   "textures": {
 	"base": "item/sword/sweep/diamond_sword",
 	"base2": "item/sword/base/diamond_sword"

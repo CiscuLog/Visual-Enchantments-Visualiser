@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/bow_pulling_2",
+  "parent": "minecraft:item/bows/bow_pulling_2",
   "textures": {
 	"base": "item/bow/unbreaking",
 	"tip": "item/bow/power",

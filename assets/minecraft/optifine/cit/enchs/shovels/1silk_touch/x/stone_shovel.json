@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/stone_shovel",
+  "parent": "minecraft:item/shovels/stone_shovel",
   "textures": {
 	"head": "item/tools/silk_touchshovel",
 	"efficiencytop": "#head"

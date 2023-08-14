@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/golden_hoe",
+  "parent": "minecraft:item/hoes/golden_hoe",
   "textures": {
 	"efficiency": "item/tools/efficiency",
 	"efficiencytop": "#efficiency",

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/golden_shovel",
+  "parent": "minecraft:item/shovels/golden_shovel",
   "textures": {
 	"efficiency": "item/tools/efficiency",
 	"bottom": "item/tools/mending"

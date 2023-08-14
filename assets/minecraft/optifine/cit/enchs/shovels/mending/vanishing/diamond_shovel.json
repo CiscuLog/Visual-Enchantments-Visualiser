@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_shovel",
+  "parent": "minecraft:item/shovels/diamond_shovel",
   "textures": {
 	"base": "item/tools/vanishing/diamond_shovel",
 	"bottom": "item/tools/mending"

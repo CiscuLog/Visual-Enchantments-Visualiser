@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/wooden_sword",
+  "parent": "minecraft:item/swords/wooden_sword",
   "textures": {
 	"grip": "item/sword/knockback",
 	"orb1": "#grip",

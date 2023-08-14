@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_hoe",
+  "parent": "minecraft:item/hoes/iron_hoe",
   "textures": {
 	"stick": "item/tools/unbreaking",
 	"stickbottom": "item/tools/mending"

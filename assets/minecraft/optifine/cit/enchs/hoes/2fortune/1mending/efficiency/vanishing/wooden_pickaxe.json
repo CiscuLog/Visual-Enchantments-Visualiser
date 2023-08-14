@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/wooden_hoe",
+  "parent": "minecraft:item/hoes/wooden_hoe",
   "textures": {
 	"base": "minecraft:item/tools/vanishing/wooden_hoe",
 	"top": "item/tools/fortune",

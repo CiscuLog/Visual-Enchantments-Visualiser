@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_pickaxe",
+  "parent": "minecraft:item/pickaxes/diamond_pickaxe",
   "textures": {
 	"top": "item/tools/fortune",
 	"sticktop": "item/tools/fortune"

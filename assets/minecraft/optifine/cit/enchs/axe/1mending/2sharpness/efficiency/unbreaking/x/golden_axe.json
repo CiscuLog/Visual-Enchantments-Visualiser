@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/golden_axe",
+  "parent": "minecraft:item/axes/golden_axe",
   "textures": {
 	"stick": "item/tools/unbreaking",
 	"sticktop2": "item/tools/rings/gold",

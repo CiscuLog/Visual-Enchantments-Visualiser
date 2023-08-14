@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_axe",
+  "parent": "minecraft:item/axes/iron_axe",
   "textures": {
 	"base": "item/tools/bane/vanishing/iron_axe",
 	"stick": "item/tools/unbreaking"

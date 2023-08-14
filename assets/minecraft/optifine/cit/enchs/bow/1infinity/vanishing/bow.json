@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/bow",
+  "parent": "minecraft:item/bows/bow",
   "textures": {
 	"base": "item/bow/vanishing",
 	"tip": "item/bow/infinity"

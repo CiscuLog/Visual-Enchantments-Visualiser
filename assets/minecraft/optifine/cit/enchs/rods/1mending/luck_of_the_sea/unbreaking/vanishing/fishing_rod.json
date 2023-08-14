@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/fishing_rod",
+  "parent": "minecraft:item/rods/fishing_rod",
   "textures": {
 	"base": "item/rods/unbreakingvanishing",
 	"clock": "item/rods/mending",

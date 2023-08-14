@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_hoe",
+  "parent": "minecraft:item/hoes/diamond_hoe",
   "textures": {
 	"stick": "item/tools/unbreaking",
 	"top": "item/tools/fortune",

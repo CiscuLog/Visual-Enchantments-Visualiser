@@ -1,9 +1,29 @@
-COMPATIBLE GAME VERSIONS: 1.13 to 1.17 (until further notice)
+COMPATIBLE GAME VERSIONS: 1.13 to 1.19 (until further notice)
 OptiFine or CIT-related mods required.
 Required settings:
 	- Custom Items: ON
 	- Emissive Textures: ON
 
+Changes in VisualEnchantments 3.1.0 (17/01/2023)
++ Updated to 1.19
++ Added Swift Sneak enchantment
++ Added mending emissive textures for crossbows
++ Added mending emissing textures for rods
++ Added missing elytra textures
++ Added missing flint and steel textures
++ Changed looting texture
++ Relocated several model file paths
+- Removed Visual Trident's datapack files
+- Removed enchanted Horse Armor files
+- Removed Infinity + Mending bows
+
+Changes in VisualEnchantments 3.0.5 (14/04/2022)
+- Added all missing crossbow combinations
+- Fixed all existing crossbow combinations
+
+Changes in VisualEnchantments 3.0.4 (01/02/2022)
+- Updated to 1.18
+- Fixed minecraft:optifine/cit/enchs/swords/1sharpness/1fire_aspect/knockback/mending/unbreaking/x/stone_sword.json
 
 Changes in VisualEnchantments 3.0.3 (03/10/2021)
 - Deleted iron_layer_1 - copia.properties so the pack is now hopefully compatible with fabric
@@ -33,7 +53,6 @@ Changes in VisualEnchantments 3.0.3 (03/10/2021)
 		- Luck of the Sea
 		- Riptide
 		- Unbreaking
-
 
 Changes in VisualEnchantments 3.0.2 (11/07/2021)
 - Changed icon chars on enchantment names

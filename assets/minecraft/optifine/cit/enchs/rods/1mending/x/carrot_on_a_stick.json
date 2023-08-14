@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/carrot_on_a_stick",
+  "parent": "minecraft:item/rods/carrot_on_a_stick",
   "textures": {
 	"clock": "item/rods/mending"
 	}

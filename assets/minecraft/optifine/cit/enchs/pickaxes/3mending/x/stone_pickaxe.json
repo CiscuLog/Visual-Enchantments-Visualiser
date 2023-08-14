@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/stone_pickaxe",
+  "parent": "minecraft:item/pickaxes/stone_pickaxe",
   "textures": {
 	"stickbottom": "item/tools/mending"
 	}

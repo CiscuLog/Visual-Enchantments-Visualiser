@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/stone_sword",
+  "parent": "minecraft:item/swords/stone_sword",
   "textures": {
 	"base": "item/sword/bane/stone_sword",
 	"bottom": "item/sword/mending"

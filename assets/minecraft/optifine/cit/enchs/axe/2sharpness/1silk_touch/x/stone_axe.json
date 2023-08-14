@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/stone_axe",
+  "parent": "minecraft:item/axes/stone_axe",
   "textures": {
 	"sticktop": "item/tools/silk_touchaxe",
 	"efficiencytop": "#sticktop",

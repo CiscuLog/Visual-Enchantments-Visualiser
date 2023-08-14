@@ -341,6 +341,15 @@
 			"chars": [
 				"\uE683"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/swift_sneak.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": [
+				"\uE684"
+			]
 		}
 	]
 }
